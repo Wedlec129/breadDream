@@ -16,6 +16,7 @@
 		5BE39ABB29D1FBD000129949 /* breadDreamTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE39ABA29D1FBD000129949 /* breadDreamTests.swift */; };
 		5BE39AC529D1FBD000129949 /* breadDreamUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE39AC429D1FBD000129949 /* breadDreamUITests.swift */; };
 		5BE39AC729D1FBD000129949 /* breadDreamUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE39AC629D1FBD000129949 /* breadDreamUITestsLaunchTests.swift */; };
+		5BE39AD429D212D700129949 /* buyVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE39AD329D212D700129949 /* buyVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5BE39AC029D1FBD000129949 /* breadDreamUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = breadDreamUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BE39AC429D1FBD000129949 /* breadDreamUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = breadDreamUITests.swift; sourceTree = "<group>"; };
 		5BE39AC629D1FBD000129949 /* breadDreamUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = breadDreamUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5BE39AD329D212D700129949 /* buyVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buyVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				5BE39AA529D1FBCF00129949 /* SceneDelegate.swift */,
 				5BE39AA729D1FBCF00129949 /* ViewController.swift */,
 				5BE39AA929D1FBCF00129949 /* Main.storyboard */,
+				5BE39AD329D212D700129949 /* buyVC.swift */,
 				5BE39AAC29D1FBD000129949 /* Assets.xcassets */,
 				5BE39AAE29D1FBD000129949 /* LaunchScreen.storyboard */,
 				5BE39AB129D1FBD000129949 /* Info.plist */,
@@ -261,6 +264,7 @@
 				5BE39AA829D1FBCF00129949 /* ViewController.swift in Sources */,
 				5BE39AA429D1FBCF00129949 /* AppDelegate.swift in Sources */,
 				5BE39AA629D1FBCF00129949 /* SceneDelegate.swift in Sources */,
+				5BE39AD429D212D700129949 /* buyVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
